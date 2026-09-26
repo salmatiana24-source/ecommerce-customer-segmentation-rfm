@@ -1,0 +1,12 @@
+# Virtual Environment (Wajib diabaikan agar tidak memberatkan repo)
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Checkpoint Jupyter
+.ipynb_checkpoints/
+
+# File data berukuran besar (opsional, jika ecommerce_data.csv > 100MB)
+# ecommerce_data.csv
